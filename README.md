@@ -8,5 +8,5 @@ I am using only one repository for all the projects so that everything is avalia
 Frontend_Projects > Beginner > Single-Page-CV
 Project page URL
 - Single-Page HTML CV Project
-  The project instruction: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
-  - [x] [Single-Page HTML CV Project](https://github.com/parthamk/roadmap.sh-projects/tree/main/Frontend_Projects/Beginner/Single-Page-CV) 
+  - The project instruction: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
+   - [x] [Single-Page HTML CV Project](https://github.com/parthamk/roadmap.sh-projects/tree/main/Frontend_Projects/Beginner/Single-Page-CV) 
