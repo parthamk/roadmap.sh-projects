@@ -4,7 +4,7 @@ This project is a single-page HTML CV (Curriculum Vitae) that showcases educatio
 
 ## Project Page URL
 
-The project page can be found at: [Single-Page HTML CV Project]()
+The project page can be found at: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
 
 ## How to Run the Project
 
